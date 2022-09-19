@@ -7,7 +7,7 @@
 Obrigado por acompanhar junto comigo esse projeto, onde estarei evoluindo tecnicamente.
 
 
-**Escolhei esse desafio para aprimorar os conhecimento em HTML, CSS e JavaScript.**
+**Escolhi esse desafio para aprimorar os conhecimento em HTML, CSS e JavaScript.**
 
 ## O desafio
 
