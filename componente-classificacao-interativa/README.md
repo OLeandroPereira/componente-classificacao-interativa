@@ -25,5 +25,5 @@ Os usuários devem ser capazes de:
 
 Autor
 Site - Leandro Pereira
-Mentor de front-end - leandroppmarques@hotamil.com
+Mentor de front-end - leandroppmarques@hotmail.com
 instagram- @le_codigo
