@@ -1,2 +1,104 @@
-.attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+body{
+    width: 1440px;
+    background-color: hsl(213, 19%, 18%);
+}
+
+
+
+#container{
+    width: 380px;
+    height: 360px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin:auto;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 7%;
+
+}
+
+.logo{
+    width: 30px;
+    height: 31px;
+    margin-left: 30px;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 11px; 
+    border-radius: 50%;
+    background-color: hsl(220, 5%, 32%);
+    
+}
+
+.logo > img{
+    width: 10px;
+    
+}
+
+h1{
+    padding-left: 30px;
+}
+
+p{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px;
+   }  
+
+.classification > ul > li {
+    width: 60px;
+    height: 40px;
+    margin: 14px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 11px; 
+    background-color: hsl(220, 5%, 32%)
+}
+
+.classification > ul > li:hover{
+    transition: all .3s ease-in-out;
+    background-color: hsl(25, 97%, 53%);
+}
+
+li {
+    width: 60px;
+    height: 30px;
+    border-radius: 50%; 
+    justify-content: center;
+}
+
+.classification > ul > li > a {
+    text-decoration: none;
+    color: hsl(217, 12%, 63%)
+}
+
+.button{
+    text-align: center;
+    border: none;
+    transition: all .3s ease-in-out;
+}
+
+
+input{
+    width: 20rem;
+    height: 30px;
+    border-radius: 20px;
+    background-color: hsl(25, 97%, 53%)
+    
+}
+
+
+input:hover{
+    background-color: hsl(217, 12%, 63%);
+    transition: all .3s ease-in-out;
+    
+}
+
