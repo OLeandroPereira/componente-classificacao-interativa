@@ -7,7 +7,7 @@
 Obrigado por acompanhar junto comigo esse projeto, onde estarei evoluindo tecnicamente.
 
 
-**Escolhi esse desafio para aprimorar os conhecimento em HTML, CSS e JavaScript.**
+**Escolhei esse desafio para aprimorar os conhecimento em HTML, CSS e JavaScript.**
 
 ## O desafio
 
@@ -25,5 +25,5 @@ Os usuários devem ser capazes de:
 
 Autor
 Site - Leandro Pereira
-Mentor de front-end - leandroppmarques@hotmail.com
+Mentor de front-end - leandroppmarques@hotamil.com
 instagram- @le_codigo
