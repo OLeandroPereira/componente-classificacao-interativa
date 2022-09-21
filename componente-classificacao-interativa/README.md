@@ -31,6 +31,6 @@ Os usuários devem ser capazes de:
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
-<a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<a href="https://www.instagram.com/le_codigo/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/le_codigo" alt="linkedin"/>
 </a> 
