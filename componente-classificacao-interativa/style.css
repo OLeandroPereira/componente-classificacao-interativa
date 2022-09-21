@@ -7,7 +7,7 @@ body{
 
 #container{
     width: 380px;
-    height: 360px;
+    height: 310px;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -16,6 +16,7 @@ body{
     margin:auto;
     background-color: hsl(213, 19%, 18%);
     border-radius: 7%;
+    padding-bottom: 55px;
 
 }
 
@@ -25,7 +26,7 @@ body{
     margin-left: 30px;
     margin-top: 20px;
     text-align: center;
-    line-height: 30px;
+    line-height: 34px;
     font-size: 11px; 
     border-radius: 50%;
     background-color: hsl(220, 5%, 32%);
@@ -39,28 +40,31 @@ body{
 
 h1{
     padding-left: 30px;
+    font-family: overpass;
 }
 
 p{
     padding-left: 30px;
     padding-right: 30px;
+    font-family: overpass;
+    color: hsl(217, 12%, 63%)
 }
 
 ul {
     list-style: none;
     display: flex;
     flex-wrap: nowrap;
-    padding: 10px;
-   }  
+}  
 
 .classification > ul > li {
-    width: 60px;
+    width: 40px;
     height: 40px;
-    margin: 14px;
+    margin: 10px;
     text-align: center;
     line-height: 40px;
     font-size: 11px; 
-    background-color: hsl(220, 5%, 32%)
+    background-color: hsl(220, 5%, 32%);
+    font-family: overpass;
 }
 
 .classification > ul > li:hover{
@@ -89,10 +93,10 @@ li {
 
 input{
     width: 20rem;
-    height: 30px;
+    height: 40px;
     border-radius: 20px;
-    background-color: hsl(25, 97%, 53%)
-    
+    background-color: hsl(25, 97%, 53%);
+    border: none;
 }
 
 

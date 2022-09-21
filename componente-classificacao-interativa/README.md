@@ -4,10 +4,10 @@
 
 ## Seja bem-vindo! 👋
 
-Obrigado por acompanhar junto comigo esse projeto, onde estarei evoluindo tecnicamente.
+Obrigado por acompanhar junto comigo esse projeto, onde estarei evoluindo inicialmente em Javascript.
 
 
-**Escolhei esse desafio para aprimorar os conhecimento em HTML, CSS e JavaScript.**
+**Escolhi esse desafio para aprimorar os conhecimento em HTML, CSS e JavaScript.**
 
 ## O desafio
 
@@ -23,7 +23,13 @@ Os usuários devem ser capazes de:
 - Ver o estado do cartão "Obrigado" após enviar uma avaliação
 
 
-Autor
-Site - Leandro Pereira
-Mentor de front-end - leandroppmarques@hotamil.com
-instagram- @le_codigo
+- Autor
+- Site - Leandro Pereira
+- Mentor de front-end - leandroppmarques@hotmail.com
+<a href="https://linkedin.com/in/leandropereira-dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-leandropereira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/le_codigo/" target="_blank">
+  <img align="center" src="https://instagram.com/le_codigo" alt="linkedin"/>
+</a> 
