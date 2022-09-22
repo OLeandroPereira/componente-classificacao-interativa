@@ -95,14 +95,14 @@ input{
     width: 20rem;
     height: 40px;
     border-radius: 20px;
-    background-color: hsl(25, 97%, 53%);
     border: none;
+    background-color: hsl(25, 97%, 53%);;
 }
 
 
 input:hover{
-    background-color: hsl(217, 12%, 63%);
-    transition: all .3s ease-in-out;
+    background-color: hsl(0, 0%, 100%);
+    transition: all .3s ease-in;
     
 }
 
