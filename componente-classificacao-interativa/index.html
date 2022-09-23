@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
 
@@ -17,55 +17,84 @@
 </head>
 <body>
   <!-- Início do estado de classificação -->
-  <section>
-      <div id="container">
-          <div class="item">
-              <div class="logo">    
-                  <img src="images/icon-star.svg" alt="Icone Estrela">
-              </div>
-          </div>
+    <main>
+        <div id="container">
+            <div class="item">
+                <div class="logo">    
+                    <img src="images/icon-star.svg" alt="Ícone Estrela">
+                </div>
+            </div>
 
-          <div class="title">
-              <h1>Como Fizemos?</h1>
-          </div>
+            <div class="title">
+                <h2>Como Fizemos?</h2>
+            </div>
 
-          <div>
-              <p>Por favor, deixe-nos saber como fizemos com sua solicitação de suporte. Todos os comentários são apreciados
-                para nos ajudar a melhorar a nossa oferta!</p>
-          </div>
+            <div>
+                <p>Por favor, deixe-nos saber como fizemos com sua solicitação de suporte. Todos os comentários são apreciados
+                    para nos ajudar a melhorar a nossa oferta!</p>
+            </div>
 
-          <div class="classification">
-              <ul>  
-                  <li><a href="#" target="_parent">1</a></li>
-                  <li><a href="#" target="_parent">2</a></li>
-                  <li><a href="#" target="_parent">3</a></li>
-                  <li><a href="#" target="_parent">4</a></li>
-                  <li><a href="#" target="_parent">5</a></li>
-              </ul>
-          </div>
-          <div class="button">
-                <input type="submit" value="ENVIAR">
-          </div>
-      </div>
-  </section>
-  <!-- Fim do estado de classificação -->
-  
+            <div class="avaliacao-form">
+                <form class="avaliacao-form">
+                    <input type="radio" name="avaliacao" id="avaliacao1" value="1">
+                    <label for="avaliacao1">1</label>
+                    <input type="radio" name="avaliacao" id="avaliacao2" value="2">
+                    <label for="avaliacao2">2</label>
+                    <input type="radio" name="avaliacao" id="avaliacao3" value="3">
+                    <label for="avaliacao3">3</label>
+                    <input type="radio" name="avaliacao" id="avaliacao4" value="4">
+                    <label for="avaliacao4">4</label>
+                    <input type="radio" name="avaliacao" id="avaliacao5" value="5">
+                    <label for="avaliacao5">5</label>
+                    <button type="submit">ENVIAR</button>
+                </form>
+            </div>
 
-  <!-- Obrigado início do estado -->
+            <footer>
+                <div class="atribuicao">
+                    Desafio por <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+                    Codificado por <a href="https://www.linkedin.com/in/leandropereira-dev/" target="_blank">Leandro Pereira</a>. 
+                </div>
+            </footer>
+        </div>
+    </main>
 
-  <!-- Você selecionou (Adicionar avaliação aqui) de 5 -->
+    <!-- Fim do estado de classificação -->
 
-  <!--Obrigado!
 
-  Agradecemos você por reservar um tempo para dar uma classificação. Se você precisar de mais suporte,
-  não hesite em entrar em contato!
 
-  Obrigado final do estado -->
+    <!-- Obrigado início do estado -->
 
-  
-  <!--<div class="atribuicao">
-    Desafio por <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Codificado por <a href="#">Leandro</a>.
-  </div>-->
+    <main>
+        <div class="page-thank-you hidden">
+            <div class="ilustracao-POS">
+                <img src="images/illustration-thank-you.svg" alt="Ícone da Tela de agradecimento">
+            </div>
+            
+            <div class="selector-externo">
+                <div class="selector"></div>
+            </div>
+
+            <h1 class="title">Obrigado!</h1>
+            <p class="msg">Agradecemos você por reservar um tempo para dar uma classificação. Se você precisar de mais suporte,
+            não hesite em entrar em contato!
+            </p>
+
+            <footer class="page2">
+                <div class="atribuicao">
+                    Desafio por <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+                    Codificado por <a href="https://www.linkedin.com/in/leandropereira-dev/" target="_blank">Leandro Pereira</a>. 
+                </div>
+            </footer>
+        </div>
+
+        <!-- Obrigado final do estado -->  
+
+        <script>
+                
+        </script>
+
+        
+    </main>
 </body>
 </html>
