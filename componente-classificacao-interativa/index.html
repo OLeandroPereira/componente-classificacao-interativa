@@ -16,39 +16,36 @@
   
 </head>
 <body>
-  <!-- Início do estado de classificação -->
+  <!-- Início do estado de avaliação -->
     <main>
-        <div id="container">
-            <div class="item">
-                <div class="logo">    
-                    <img src="images/icon-star.svg" alt="Ícone Estrela">
-                </div>
+        <div id="avaliacao">
+            <div class="logo">    
+                <img src="images/icon-star.svg" alt="Ícone Estrela">
             </div>
+            <h2 class="question-title">Como Fizemos?</h2>
+            
+            <p class="perguntar">Por favor, deixe-nos saber como fizemos com sua solicitação de suporte. Todos os comentários são apreciados
+               para nos ajudar a melhorar a nossa oferta!</p>
+            
+            <form class="avaliacao-form">
+                <input type="radio" name="avaliacao" id="avaliacao1" value="1">
+                <label for="avaliacao1">1</label>
 
-            <div class="title">
-                <h2>Como Fizemos?</h2>
-            </div>
+                <input type="radio" name="avaliacao" id="avaliacao2" value="2">
+                <label for="avaliacao2">2</label>
 
-            <div>
-                <p>Por favor, deixe-nos saber como fizemos com sua solicitação de suporte. Todos os comentários são apreciados
-                    para nos ajudar a melhorar a nossa oferta!</p>
-            </div>
+                <input type="radio" name="avaliacao" id="avaliacao3" value="3">
+                <label for="avaliacao3">3</label>
 
-            <div class="avaliacao-form">
-                <form class="avaliacao-form">
-                    <input type="radio" name="avaliacao" id="avaliacao1" value="1">
-                    <label for="avaliacao1">1</label>
-                    <input type="radio" name="avaliacao" id="avaliacao2" value="2">
-                    <label for="avaliacao2">2</label>
-                    <input type="radio" name="avaliacao" id="avaliacao3" value="3">
-                    <label for="avaliacao3">3</label>
-                    <input type="radio" name="avaliacao" id="avaliacao4" value="4">
-                    <label for="avaliacao4">4</label>
-                    <input type="radio" name="avaliacao" id="avaliacao5" value="5">
-                    <label for="avaliacao5">5</label>
-                    <button type="submit">ENVIAR</button>
-                </form>
-            </div>
+                <input type="radio" name="avaliacao" id="avaliacao4" value="4">
+                <label for="avaliacao4">4</label>
+
+                <input type="radio" name="avaliacao" id="avaliacao5" value="5">
+                <label for="avaliacao5">5</label>
+
+                <button type="submit">ENVIAR</button>
+            </form>
+            
 
             <footer>
                 <div class="atribuicao">
@@ -56,10 +53,11 @@
                     Codificado por <a href="https://www.linkedin.com/in/leandropereira-dev/" target="_blank">Leandro Pereira</a>. 
                 </div>
             </footer>
+
         </div>
     </main>
 
-    <!-- Fim do estado de classificação -->
+    <!-- Fim do estado de avaliação -->
 
 
 
@@ -71,8 +69,8 @@
                 <img src="images/illustration-thank-you.svg" alt="Ícone da Tela de agradecimento">
             </div>
             
-            <div class="selector-externo">
-                <div class="selector"></div>
+            <div class="selecao-externa">
+                <p class="selecao"></p>
             </div>
 
             <h1 class="title">Obrigado!</h1>
@@ -89,12 +87,8 @@
         </div>
 
         <!-- Obrigado final do estado -->  
-
-        <script>
-                
-        </script>
-
-        
     </main>
+    <script src="script.js"></script>
 </body>
+
 </html>
