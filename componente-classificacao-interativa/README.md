@@ -1,9 +1,5 @@
 <div id="top">
 
-# Componente de Classificação Interativa
-
-![Design preview for the Interactive rating component coding challenge](./design/desktop-design.jpg)
-
 ## Seja bem-vindo! 👋
 
 Obrigado por acompanhar este projeto junto comigo. Um projeto simples, direto e pratico, mas enxergo a minha evolução com autoestima, e animado para continuar evoluindo cada vez mais. 
