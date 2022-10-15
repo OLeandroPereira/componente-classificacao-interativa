@@ -1,39 +1,69 @@
 <div id="top">
 
-![Visualização do design para o desafio de codificação do componente de classificação interativa](./design/desktop-design.jpg)
-
 ## Seja bem-vindo! 👋
 
-Obrigado por acompanhar este projeto junto comigo. Um projeto simples, direto e pratico, mas enxergo a minha evolução com autoestima, e animado para continuar evoluindo cada vez mais. 
+<h1></h1>
 
+Obrigado por acompanhar este projeto junto comigo, fique a vontade para dar feedback para melhorias no projeto.
 
-**Escolhei esse desafio para aprimorar os conhecimento em HTML, CSS e principalmente em JavaScript, onde estou focado em evoluir gradativamente.**
+Aos poucos estou evoluindo na semântica do HTML e propriedade do CSS. 
+
+<h1></h1>
+
+    
 
 ## O desafio
 
 
-O desafio é construir esse componente de classificação interativo e fazê-lo ser interativo para o usuário ao escolher suas notas de atendimento.
+
+Esse componente de classificação interativo e fazê-lo ser interativo para o usuário ao escolher suas notas de atendimento.
 
 
 Os usuários devem ser capazes de:
 
-- Visualize o layout ideal para o aplicativo, dependendo do tamanho da tela do dispositivo
-- Veja os estados de foco para todos os elementos interativos na página
-- Selecione e envie uma classificação numérica
+- Visualizar o layout ideal para o aplicativo, dependendo do tamanho da tela do dispositivo
+
+- Ver os estados de foco para todos os elementos interativos na página
+
+- Selecionar e enviar uma classificação numérica
+
 - Ver o estado do cartão "Obrigado" após enviar uma avaliação
 
+<br>
 
+Captura de tela
 
-<a href="https://avaliacaocliente.netlify.app/" target="_blank">VEJA O SITE</a>
+![Visualização do design para o desafio de codificação do componente de classificação interativa](./design/desktop-design.jpg)
+
+<h1></h1>
+
+## O que eu aprendi
+
+<br>
+
+Escolhi esse desafio para aprimorar os conhecimento em HTML, CSS e principalmente em JavaScript, onde estou focado em evoluir gradativamente.*
+
+<h1>
+
+## Links
+
+<a href="https://avaliacaocliente.netlify.app/" target="_blank">Veja o Deploy</a>
+
+<h1></h1>
 
 ## Tecnologias utilizadas!
 
-[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)<br>
-[CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)<br>
-[JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)<br>
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)<br>
+- [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction)
 <br>
 <br>
 
+
+<h1></h1>
+
+## Me siga nas Redes:
+<br>
 <a href="https://linkedin.com/in/leandropereira-dev/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
