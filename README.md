@@ -6,7 +6,6 @@
 
 Obrigado por acompanhar este projeto junto comigo, fique a vontade para dar feedback para melhorias no projeto.
 
-Aos poucos estou evoluindo na semântica do HTML e propriedade do CSS. 
 
 <h1></h1>
 
@@ -31,35 +30,29 @@ Os usuários devem ser capazes de:
 
 <br>
 
-
 Pagina de avaliação
-<div align="center">
-    <img src="design/desktop-design.jpg">
-</div>
 
-<br>
-
-Pagina de agradecimento
-<div align="center">
-    <img src="design/desktop-thank-you-state.jpg">
-</div>
-
-
+![Visualização do design para o desafio de codificação do componente de classificação interativa](./design/desktop-design.jpg)
 <h1></h1>
 
-## Links
+Pagina de agradecimento
 
-<a href="https://avaliacaocliente.netlify.app/" target="_blank">Veja o Deploy</a>
-
+![Visualização do design para o desafio de codificação do componente de classificação interativa](./design/desktop-thank-you-state.jpg)
 <h1></h1>
 
 ## O que eu aprendi
 
 <br>
 
-Aprimorei meus os conhecimento em HTML, CSS e principalmente em JavaScript, onde estou focado em evoluir gradativamente.*
+*Aprimorei o conhecimento em HTML, CSS e principalmente em JavaScript, onde estou focado em evoluir gradativamente.*
 
 <h1>
+
+## Links
+
+<a href="https://avaliacaocliente.netlify.app/" target="_blank">Veja o Deploy</a>
+
+<h1></h1>
 
 ## Tecnologias utilizadas!
 
@@ -92,4 +85,4 @@ Feito com muito estudo e dedicação por <a href="https://github.com/OLeandroPer
 <br>
 <br>
 
-<a href="#top"> << Voltar ao início</a>
+<a href="#top">Voltar ao topo</a>
