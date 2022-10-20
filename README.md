@@ -32,12 +32,12 @@ Os usuários devem ser capazes de:
 
 Pagina de avaliação
 
-![Visualização do design para o desafio de codificação do componente de classificação interativa](./design/desktop-design.jpg)
+![Visualização do design para o desafio de codificação do componente de classificação interativa](assets/design/desktop-design.jpg)
 <h1></h1>
 
 Pagina de agradecimento
 
-![Visualização do design para o desafio de codificação do componente de classificação interativa](./design/desktop-thank-you-state.jpg)
+![Visualização do design para o desafio de codificação do componente de classificação interativa](assets/design/desktop-thank-you-state.jpg)
 <h1></h1>
 
 ## O que eu aprendi
